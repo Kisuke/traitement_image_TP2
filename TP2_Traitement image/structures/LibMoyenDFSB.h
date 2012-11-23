@@ -1,5 +1,5 @@
 /* -----------------------------------------------------------*/
-/*  Prototypes de l'Operateur de Lissage MoyenIndeed                */
+/*  Prototypes de l'Operateur de Lissage Moyen                */
 /*  Fichier: LibMoyen.h				              */
 /*  Auteur: Patrick Bonnin				      */
 /*  Date: Creation: 			                      */
