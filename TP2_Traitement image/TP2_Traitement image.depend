@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1353577240 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\libmoyen.c
+	"Structures.h"
+
+973114636 c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+973114672 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\libmoyendfsb.c
+	"Structures.h"
+
+1353576805 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\moyen.c
+	"Structures.h"
+	"Utilitaires1.h"
+	"LibMoyen.h"
+	<conio.h>
+
+973114636 c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\utilitaires1.h
+
+1353576979 c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\libmoyen.h
+
+973114672 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\moyendfsb.c
+	"Structures.h"
+	"Utilitaires1.h"
+	"LibMoyenDFSB.h"
+
+973114632 c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\libmoyendfsb.h
+
+1353577262 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\structures\utilitaires1.c
+	"Structures.h"
+
+1353578148 source:c:\users\kisuke\desktop\travail\m1\traitement d'image\traitement image\tpenviti\src\tp2_traitement image\main.c
+	"structures/Structures.h"
+	"structures/Utilitaires1.h"
+	"structures/LibMoyen.h"
+	<string.h>
+	<conio.h>
+

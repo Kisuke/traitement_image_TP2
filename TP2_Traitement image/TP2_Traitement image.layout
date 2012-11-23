@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="2096" topLine="11" />
+	</File>
+	<File name="structures\LibMedian.c" open="1" top="1" tabpos="2">
+		<Cursor position="2354" topLine="54" />
+	</File>
+	<File name="structures\LibMedian.h" open="1" top="0" tabpos="4">
+		<Cursor position="410" topLine="0" />
+	</File>
+	<File name="structures\Structures.h" open="1" top="0" tabpos="3">
+		<Cursor position="1469" topLine="113" />
+	</File>
+	<File name="structures\Utilitaires1.c" open="1" top="0" tabpos="5">
+		<Cursor position="6817" topLine="13" />
+	</File>
+	<File name="structures\Utilitaires1.h" open="1" top="0" tabpos="6">
+		<Cursor position="553" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
