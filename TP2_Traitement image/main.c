@@ -16,13 +16,14 @@ main(int argc, char **argv)
   unsigned char	prof = 1;
   FILE	    *fichier = NULL, *fichres = NULL;
     char nomfichier[30];
+    char nomretour[30];
   /* --- USAGE --- */
   if(argc != 3)
   {
-fprintf(stderr,"USAGE : Lissage moyen image immoy \n");
+fprintf(stderr,"USAGE : Lissage median image immoy \n");
 fprintf(stderr,"image : nom de l'image a lisser \n");
-fprintf(stderr,"immoy : image moyennee \n");
-fprintf(stderr,"Effectue le lissage moyen de l'image source \n");
+fprintf(stderr,"image : image mediane  \n");
+fprintf(stderr,"Effectue le lissage median de l'image source \n");
     scanf("%s",nomfichier);
     //exit(0);
   }
@@ -33,8 +34,9 @@ fprintf(stderr,"Effectue le lissage moyen de l'image source \n");
 fprintf(stderr,"ouverture du fichier Image %s impossible\n",*argv);
     exit(0);
   }
+
 /* --- Image Resultat --- */
-  if(!(fichres = fopen("retour.pgm","wb")))
+  if(!(fichres = fopen("retour_median.pgm","wb")))
   {
 fprintf(stderr,"ouverture du fichier Image Resultat %s impossible\n",*argv);
     exit(0);

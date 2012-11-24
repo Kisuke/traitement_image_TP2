@@ -37,3 +37,25 @@
 	<string.h>
 	<conio.h>
 
+1353577262 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.c
+	"Structures.h"
+
+973114636 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1353783629 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\main.c
+	"structures/Structures.h"
+	"structures/Utilitaires1.h"
+	"structures/LibMoyen.h"
+	<string.h>
+	<conio.h>
+
+973114636 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.h
+
+1353576979 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmoyen.h
+
+1353787384 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.c
+	"Structures.h"
+
