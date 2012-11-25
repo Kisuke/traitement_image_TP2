@@ -45,10 +45,11 @@
 	<stdlib.h>
 	<math.h>
 
-1353783629 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\main.c
+1353789784 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\main.c
 	"structures/Structures.h"
 	"structures/Utilitaires1.h"
-	"structures/LibMoyen.h"
+	"structures/LibMedian.h"
+	"structures/Seuillage.h"
 	<string.h>
 	<conio.h>
 
@@ -58,4 +59,12 @@
 
 1353787384 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.c
 	"Structures.h"
+
+1353593374 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.h
+
+1353788691 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.h
+	"Structures.h"
+
+1353789170 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.c
+	"Seuillage.h"
 

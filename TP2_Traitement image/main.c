@@ -6,7 +6,10 @@
 /* ----------------------------------------------------*/
 #include "structures/Structures.h"
 #include "structures/Utilitaires1.h"
+#include "structures/LibMedian.h"
 #include "structures/LibMoyen.h"
+#include "structures/Seuillage.h"
+#include "structures/Erosion.h"
 #include <string.h>
 #include <conio.h>
 main(int argc, char **argv)
@@ -25,6 +28,7 @@ fprintf(stderr,"image : nom de l'image a lisser \n");
 fprintf(stderr,"image : image mediane  \n");
 fprintf(stderr,"Effectue le lissage median de l'image source \n");
     scanf("%s",nomfichier);
+
     //exit(0);
   }
 /* --- Image Source --- */
@@ -36,7 +40,7 @@ fprintf(stderr,"ouverture du fichier Image %s impossible\n",*argv);
   }
 
 /* --- Image Resultat --- */
-  if(!(fichres = fopen("retour_median.pgm","wb")))
+  if(!(fichres = fopen("retour.pgm","wb")))
   {
 fprintf(stderr,"ouverture du fichier Image Resultat %s impossible\n",*argv);
     exit(0);
@@ -65,7 +69,10 @@ fprintf(stderr,"Erreur d'Allocation Memoire Structure Image Resultat: Moyen \n")
   Lecture_Image(fichier,image);
 
 /* --- Lissage Médian --- */
-  FiltrageMedian (image, imres);
+    //FiltrageMoyen( image, imres)
+    //FiltrageMedian (image, imres);
+    //Seuillage(image,imres,128)
+    Erosion(image,imres);
 
 /* --- Enregistrement de l'Image Resultat --- */
   fprintf(fichres,"P5\n%d %d\n255\n",(int)ncol, (int)nlig);

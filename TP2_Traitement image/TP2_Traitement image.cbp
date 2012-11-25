@@ -34,10 +34,18 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="structures\Erosion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures\Erosion.h" />
 		<Unit filename="structures\LibMedian.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="structures\LibMedian.h" />
+		<Unit filename="structures\Seuillage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures\Seuillage.h" />
 		<Unit filename="structures\Structures.h" />
 		<Unit filename="structures\Utilitaires1.c">
 			<Option compilerVar="CC" />
