@@ -68,3 +68,49 @@
 1353789170 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.c
 	"Seuillage.h"
 
+1353867444 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\erosion.c
+	"Erosion.h"
+
+1353867444 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\erosion.h
+	"Structures.h"
+
+1353702289 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1353867444 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\libmedian.c
+	"Structures.h"
+
+1353867444 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\seuillage.c
+	"Seuillage.h"
+
+1353867444 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\seuillage.h
+	"Structures.h"
+
+1353702289 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.c
+	"Structures.h"
+
+1353872330 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\main.c
+	"structures/Structures.h"
+	"structures/Utilitaires1.h"
+	"structures/LibMedian.h"
+	"structures/LibMoyen.h"
+	"structures/Seuillage.h"
+	"structures/Erosion.h"
+	"structures/Dilatation.h"
+	<string.h>
+	<conio.h>
+
+1353702289 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.h
+
+1353702289 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\libmedian.h
+
+1353702289 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\libmoyen.h
+
+1353872267 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\dilatation.c
+	"Dilatation.h"
+
+1353872267 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\dilatation.h
+	"Structures.h"
+

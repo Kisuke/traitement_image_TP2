@@ -34,6 +34,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="structures\Dilatation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures\Dilatation.h" />
 		<Unit filename="structures\Erosion.c">
 			<Option compilerVar="CC" />
 		</Unit>

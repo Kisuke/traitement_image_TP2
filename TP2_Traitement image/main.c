@@ -10,6 +10,7 @@
 #include "structures/LibMoyen.h"
 #include "structures/Seuillage.h"
 #include "structures/Erosion.h"
+#include "structures/Dilatation.h"
 #include <string.h>
 #include <conio.h>
 main(int argc, char **argv)
