@@ -74,6 +74,7 @@ fprintf(stderr,"Erreur d'Allocation Memoire Structure Image Resultat: Moyen \n")
     //FiltrageMedian (image, imres);
     //Seuillage(image,imres,128)
     Erosion(image,imres);
+    //Dilatation(image,imres);
 
 /* --- Enregistrement de l'Image Resultat --- */
   fprintf(fichres,"P5\n%d %d\n255\n",(int)ncol, (int)nlig);
