@@ -91,7 +91,7 @@
 1353702289 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.c
 	"Structures.h"
 
-1353872330 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\main.c
+1353877191 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\main.c
 	"structures/Structures.h"
 	"structures/Utilitaires1.h"
 	"structures/LibMedian.h"
@@ -108,78 +108,9 @@
 
 1353702289 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\libmoyen.h
 
-1353872267 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\dilatation.c
+1353879304 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\dilatation.c
 	"Dilatation.h"
 
 1353872267 c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\dilatation.h
-	"Structures.h"
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\dilatation.c
-	"Dilatation.h"
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\dilatation.h
-	"Structures.h"
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\structures.h
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\erosion.c
-	"Erosion.h"
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\erosion.h
-	"Structures.h"
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\libmoyen.c
-	"Structures.h"
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\moyen.c
-	"Structures.h"
-	"Utilitaires1.h"
-	"LibMoyen.h"
-	<conio.h>
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\utilitaires1.h
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\libmoyen.h
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\seuillage.c
-	"Seuillage.h"
-
-1353881909 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\seuillage.h
-	"Structures.h"
-
-1353881909 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\utilitaires1.c
-	"Structures.h"
-
-1353882868 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\utilitaires2.c
-	"Utilitaires2.h"
-
-1353881782 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\utilitaires2.h
-	"LibMedian.h"
-	"LibMoyen.h"
-	"Seuillage.h"
-	"Erosion.h"
-	<string.h>
-	<conio.h>
-	<stdio.h>
-	<stdlib.h>
-
-1353882845 c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\libmedian.h
-	"Structures.h"
-
-1353882660 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\main.c
-	"structures/Structures.h"
-	"structures/Utilitaires1.h"
-	"structures/LibMedian.h"
-	"structures/LibMoyen.h"
-	"structures/Seuillage.h"
-	"structures/Erosion.h"
-	"structures/Dilatation.h"
-	<string.h>
-	<conio.h>
-
-1353882991 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\libmedian.c
 	"Structures.h"
 

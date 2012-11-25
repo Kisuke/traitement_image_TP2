@@ -46,10 +46,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="structures\LibMedian.h" />
-		<Unit filename="structures\LibMoyen.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="structures\LibMoyen.h" />
 		<Unit filename="structures\Seuillage.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -59,10 +55,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="structures\Utilitaires1.h" />
-		<Unit filename="structures\Utilitaires2.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="structures\Utilitaires2.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />

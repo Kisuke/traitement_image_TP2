@@ -2,33 +2,36 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 	<File name="main.c" open="1" top="1" tabpos="1">
-		<Cursor position="565" topLine="10" />
+		<Cursor position="766" topLine="12" />
 	</File>
-	<File name="structures\Dilatation.c" open="1" top="0" tabpos="11">
-		<Cursor position="2098" topLine="0" />
+	<File name="structures\Dilatation.c" open="1" top="0" tabpos="12">
+		<Cursor position="227" topLine="0" />
 	</File>
-	<File name="structures\Dilatation.h" open="1" top="0" tabpos="10">
+	<File name="structures\Dilatation.h" open="0" top="0" tabpos="10">
 		<Cursor position="160" topLine="0" />
 	</File>
-	<File name="structures\Erosion.c" open="1" top="0" tabpos="9">
-		<Cursor position="2216" topLine="17" />
+	<File name="structures\Erosion.c" open="1" top="0" tabpos="11">
+		<Cursor position="1081" topLine="3" />
 	</File>
-	<File name="structures\Erosion.h" open="1" top="0" tabpos="8">
-		<Cursor position="58" topLine="0" />
+	<File name="structures\Erosion.h" open="1" top="0" tabpos="10">
+		<Cursor position="83" topLine="0" />
 	</File>
 	<File name="structures\LibMedian.c" open="1" top="0" tabpos="2">
-		<Cursor position="2696" topLine="55" />
+		<Cursor position="721" topLine="0" />
 	</File>
 	<File name="structures\LibMedian.h" open="1" top="0" tabpos="3">
-		<Cursor position="410" topLine="0" />
+		<Cursor position="461" topLine="0" />
+	</File>
+	<File name="structures\LibMoyen.c" open="1" top="0" tabpos="13">
+		<Cursor position="716" topLine="0" />
 	</File>
 	<File name="structures\Seuillage.c" open="1" top="0" tabpos="7">
-		<Cursor position="299" topLine="0" />
+		<Cursor position="405" topLine="0" />
 	</File>
 	<File name="structures\Seuillage.h" open="1" top="0" tabpos="6">
 		<Cursor position="64" topLine="0" />
 	</File>
-	<File name="structures\Structures.h" open="1" top="0" tabpos="12">
+	<File name="structures\Structures.h" open="0" top="0" tabpos="12">
 		<Cursor position="1469" topLine="81" />
 	</File>
 	<File name="structures\Utilitaires1.c" open="1" top="0" tabpos="4">
@@ -36,5 +39,11 @@
 	</File>
 	<File name="structures\Utilitaires1.h" open="1" top="0" tabpos="5">
 		<Cursor position="553" topLine="0" />
+	</File>
+	<File name="structures\Utilitaires2.c" open="1" top="0" tabpos="9">
+		<Cursor position="4020" topLine="13" />
+	</File>
+	<File name="structures\Utilitaires2.h" open="1" top="0" tabpos="8">
+		<Cursor position="406" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>

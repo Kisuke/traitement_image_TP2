@@ -5,6 +5,4 @@
 /*  Date: Creation: 			                      */
 /*  Livre : Le TI a l'IUT                                     */
 /* -----------------------------------------------------------*/
-#include "Structures.h"
-
-void FiltrageMedian (IMAGE *, IMAGE *);
+void MoyenFlotdeDonneesSB (IMAGE *image, IMAGE *imres);
