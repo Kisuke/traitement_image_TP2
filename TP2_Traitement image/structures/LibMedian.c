@@ -17,7 +17,7 @@ void FiltrageMedian(IMAGE *image, IMAGE *imres)
   int num_tab;
   int finished = 1;
 
-  Initialisation_avec_vois(&image, &image, &point, &pointv);
+  Initialisation_avec_vois(&image, &imres, &point, &pointv);
 
 /* --- Balayage Video de l'image
    sauf premieres et dernieres lignes et colonnes --- */

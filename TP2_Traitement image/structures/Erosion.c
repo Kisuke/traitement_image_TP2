@@ -4,7 +4,7 @@ void Erosion(IMAGE *image, IMAGE *imres)
  POINT	*point = NULL, *pointv=NULL; /* point courant et point voisin */
   short	i,j, erode; /* variables indices ligne et colonne du voisinage */
 
-    Initialisation_avec_vois(&image, &image, &point, &pointv);
+    Initialisation_avec_vois(&image, &imres, &point, &pointv);
 
   for(POINT_Y(point) = 1; POINT_Y(point) < NLIG(image)-1; POINT_Y(point)++)
   for(POINT_X(point) = 1; POINT_X(point) < NCOL(image)-1; POINT_X(point)++)

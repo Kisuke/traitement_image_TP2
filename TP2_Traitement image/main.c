@@ -6,11 +6,7 @@
 /* ----------------------------------------------------*/
 #include "structures/Structures.h"
 #include "structures/Utilitaires1.h"
-#include "structures/LibMedian.h"
-#include "structures/LibMoyen.h"
-#include "structures/Seuillage.h"
-#include "structures/Erosion.h"
-#include "structures/Dilatation.h"
+#include "structures/Utilitaires2.h"
 #include <string.h>
 #include <conio.h>
 main(int argc, char **argv)

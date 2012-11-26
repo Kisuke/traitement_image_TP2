@@ -1,4 +1,6 @@
 #include "Dilatation.h"
+#define BLANC 255
+
 void Dilatation(IMAGE *image, IMAGE *imres)
 {
  POINT	*point = NULL, *pointv=NULL; /* point courant et point voisin */
@@ -11,7 +13,7 @@ void Dilatation(IMAGE *image, IMAGE *imres)
   {
 
       //PIXEL(imres,point) = PIXEL(image,point) < seuil? (short)0 : (short)255;
-      dilate = 1;
+      dilate = 0;
       /* --- Balayage Video du voisinage 3x3 --- */
     for(j = 0; j < 3; j++)
     for(i = 0; i < 3; i++)
@@ -20,10 +22,10 @@ void Dilatation(IMAGE *image, IMAGE *imres)
       POINT_X(pointv) = POINT_X(point) + i - 1;
       POINT_Y(pointv) = POINT_Y(point) + j - 1;
       //Vérification du point voisin
-        if(PIXEL(image,pointv) < 128) dilate = 0; //Si un point voisin est blanc, il y'a dilatation
+        if(PIXEL(image,pointv) > 128) dilate = 1; //Si un point voisin est blanc, il y'a dilatation
     }
      /* --- fin du balayage du voisinage --- */
-     PIXEL(imres,point) = dilate?1:PIXEL(image,point);
+     PIXEL(imres,point) = dilate?BLANC:PIXEL(image,point);
 
   }
 

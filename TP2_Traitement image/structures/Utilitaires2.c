@@ -114,7 +114,8 @@ void Traitement(IMAGE **image,IMAGE **imres,int choix)
             Erosion(*image, *imres);
         break;
         case 5:
-
+            fprintf(stderr,"\nOperation choisie : Dilatation \n");
+            Dilatation(*image, *imres);
         break;
         case 6:
 

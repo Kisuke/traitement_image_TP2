@@ -14,7 +14,7 @@ void FiltrageMoyen(IMAGE *image, IMAGE *imres)
   short	i,j; /* variables indices ligne et colonne du voisinage */
   short	moy; /* variable temporaire de type short */
 
-    Initialisation_avec_vois(&image, &image, &point, &pointv);
+    Initialisation_avec_vois(&image, &imres, &point, &pointv);
 
 /* --- Balayage Video de l'image
    sauf premieres et dernieres lignes et colonnes --- */

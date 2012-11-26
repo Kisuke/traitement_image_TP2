@@ -37,35 +37,36 @@
 	<string.h>
 	<conio.h>
 
-1353577262 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.c
+1353881909 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.c
 	"Structures.h"
 
-973114636 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\structures.h
+1353881909 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\structures.h
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 
-1353789784 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\main.c
+1353936163 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\main.c
 	"structures/Structures.h"
 	"structures/Utilitaires1.h"
-	"structures/LibMedian.h"
-	"structures/Seuillage.h"
+	"structures/Utilitaires2.h"
 	<string.h>
 	<conio.h>
 
-973114636 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.h
-
-1353576979 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmoyen.h
-
-1353787384 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.c
+1353936181 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires1.h
 	"Structures.h"
 
-1353593374 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.h
+1353881909 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmoyen.h
 
-1353788691 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.h
+1353937553 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.c
 	"Structures.h"
 
-1353789170 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.c
+1353882845 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmedian.h
+	"Structures.h"
+
+1353881909 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.h
+	"Structures.h"
+
+1353937554 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\seuillage.c
 	"Seuillage.h"
 
 1353867444 source:c:\users\srikanth\documents\github\traitement_image_tp2\tp2_traitement image\structures\erosion.c
@@ -182,4 +183,35 @@
 
 1353882991 source:c:\wamp\www\traitement_image_tp22\tp2_traitement image\structures\libmedian.c
 	"Structures.h"
+
+1353937746 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\dilatation.c
+	"Dilatation.h"
+
+1353954360 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\dilatation.h
+	"Structures.h"
+
+1353937553 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\erosion.c
+	"Erosion.h"
+
+1353881909 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\erosion.h
+	"Structures.h"
+
+1353937554 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\libmoyen.c
+	"Structures.h"
+
+1353954291 source:c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires2.c
+	"Utilitaires2.h"
+
+1353936163 c:\wamp\www\traitement_image_tp2\tp2_traitement image\structures\utilitaires2.h
+	"Utilitaires1.h"
+	"Structures.h"
+	"LibMedian.h"
+	"LibMoyen.h"
+	"Seuillage.h"
+	"Erosion.h"
+	"Dilatation.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
 

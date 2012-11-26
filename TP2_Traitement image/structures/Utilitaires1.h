@@ -7,6 +7,7 @@
 /*  Auteur: Patrick Bonnin				      */
 /*  Date: Modification : Octobre 2000 			      */
 /* -----------------------------------------------------------*/
+#include "Structures.h"
 
 void Creation_Image (IMAGE *image, short *pnlig, short *pncol,
 		    unsigned char *pprof);

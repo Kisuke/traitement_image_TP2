@@ -1,11 +1,13 @@
 #ifndef UTILITAIRES2_H_INCLUDED
 #define UTILITAIRES2_H_INCLUDED
 
-
+#include "Utilitaires1.h"
+#include "Structures.h"
 #include "LibMedian.h"
 #include "LibMoyen.h"
 #include "Seuillage.h"
 #include "Erosion.h"
+#include "Dilatation.h"
 
 #include <string.h>
 #include <conio.h>
