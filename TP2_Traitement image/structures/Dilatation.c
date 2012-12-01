@@ -1,5 +1,4 @@
 #include "Dilatation.h"
-#define BLANC 255
 
 void Dilatation(IMAGE *image, IMAGE *imres)
 {
@@ -30,3 +29,4 @@ void Dilatation(IMAGE *image, IMAGE *imres)
   }
 
 }
+

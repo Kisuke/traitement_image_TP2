@@ -42,6 +42,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="structures\Erosion.h" />
+		<Unit filename="structures\Kirsch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures\Kirsch.h" />
 		<Unit filename="structures\LibMedian.c">
 			<Option compilerVar="CC" />
 		</Unit>

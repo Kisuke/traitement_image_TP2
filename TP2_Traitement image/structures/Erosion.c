@@ -23,7 +23,7 @@ void Erosion(IMAGE *image, IMAGE *imres)
         if(PIXEL(image,pointv) < 128) erode = 1; //Si un point voisin est noir, le pixel est erodé
     }
      /* --- fin du balayage du voisinage --- */
-     PIXEL(imres,point) = erode?0:PIXEL(image,point);
+     PIXEL(imres,point) = erode?NOIR:PIXEL(image,point);
 
   }
 

@@ -9,6 +9,6 @@ void Seuillage(IMAGE *image, IMAGE *imres, int seuil)
   for(POINT_X(point) = 0; POINT_X(point) < NCOL(image); POINT_X(point)++)
   {
 
-      PIXEL(imres,point) = PIXEL(image,point) < seuil? (short)0 : (short)255;
+      PIXEL(imres,point) = PIXEL(image,point) < seuil? NOIR: BLANC;
   }
 }

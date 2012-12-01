@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="main.c" open="1" top="1" tabpos="1">
-		<Cursor position="1102" topLine="8" />
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="409" topLine="0" />
 	</File>
-	<File name="structures\Dilatation.c" open="1" top="0" tabpos="12">
-		<Cursor position="227" topLine="0" />
+	<File name="structures\Dilatation.c" open="1" top="0" tabpos="13">
+		<Cursor position="1081" topLine="5" />
 	</File>
-	<File name="structures\Dilatation.h" open="0" top="0" tabpos="10">
-		<Cursor position="160" topLine="0" />
+	<File name="structures\Dilatation.h" open="1" top="0" tabpos="11">
+		<Cursor position="122" topLine="0" />
 	</File>
-	<File name="structures\Erosion.c" open="1" top="0" tabpos="11">
-		<Cursor position="1081" topLine="3" />
+	<File name="structures\Erosion.c" open="1" top="0" tabpos="8">
+		<Cursor position="816" topLine="0" />
 	</File>
-	<File name="structures\Erosion.h" open="1" top="0" tabpos="10">
-		<Cursor position="83" topLine="0" />
+	<File name="structures\Erosion.h" open="1" top="0" tabpos="7">
+		<Cursor position="148" topLine="0" />
 	</File>
 	<File name="structures\LibMedian.c" open="1" top="0" tabpos="2">
-		<Cursor position="721" topLine="0" />
+		<Cursor position="760" topLine="0" />
 	</File>
 	<File name="structures\LibMedian.h" open="1" top="0" tabpos="3">
 		<Cursor position="461" topLine="0" />
 	</File>
-	<File name="structures\LibMoyen.c" open="1" top="0" tabpos="13">
-		<Cursor position="716" topLine="0" />
+	<File name="structures\LibMoyen.c" open="1" top="0" tabpos="9">
+		<Cursor position="658" topLine="0" />
 	</File>
-	<File name="structures\Seuillage.c" open="1" top="0" tabpos="7">
-		<Cursor position="405" topLine="0" />
+	<File name="structures\Seuillage.c" open="1" top="0" tabpos="12">
+		<Cursor position="314" topLine="0" />
 	</File>
-	<File name="structures\Seuillage.h" open="1" top="0" tabpos="6">
+	<File name="structures\Seuillage.h" open="0" top="0" tabpos="6">
 		<Cursor position="64" topLine="0" />
 	</File>
-	<File name="structures\Structures.h" open="0" top="0" tabpos="12">
-		<Cursor position="1469" topLine="81" />
+	<File name="structures\Structures.h" open="1" top="0" tabpos="10">
+		<Cursor position="623" topLine="0" />
 	</File>
 	<File name="structures\Utilitaires1.c" open="1" top="0" tabpos="4">
-		<Cursor position="6817" topLine="13" />
+		<Cursor position="2221" topLine="42" />
 	</File>
 	<File name="structures\Utilitaires1.h" open="1" top="0" tabpos="5">
-		<Cursor position="553" topLine="0" />
+		<Cursor position="323" topLine="0" />
 	</File>
-	<File name="structures\Utilitaires2.c" open="1" top="0" tabpos="9">
-		<Cursor position="4020" topLine="13" />
+	<File name="structures\Utilitaires2.c" open="1" top="0" tabpos="14">
+		<Cursor position="4043" topLine="16" />
 	</File>
-	<File name="structures\Utilitaires2.h" open="1" top="0" tabpos="8">
-		<Cursor position="406" topLine="0" />
+	<File name="structures\Utilitaires2.h" open="1" top="0" tabpos="6">
+		<Cursor position="650" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>
